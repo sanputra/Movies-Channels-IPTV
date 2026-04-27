@@ -9,11 +9,9 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 #EXTINF:0,CINEMAX
 https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
-#EXTINF:0,CINEMAX
+#EXTINF:0,Cinemax.1
 http://skytv4k.org:8080/LLXnCrjcKW/wcbmH1s5qB/2315
-#EXTINF:-1,Cinemax 1
-http://skytv4k.org:8080/LLXnCrjcKW/wcbmH1s5qB/2315
-#EXTINF:-1,Cinemax 2 
+#EXTINF:0,Cinemax.2 
 http://skytv4k.org:8080/LLXnCrjcKW/wcbmH1s5qB/2314
 #EXTINF:-1 tvg-id="MrBeanLiveAction.uk@English" tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" group-title="Comedy;Kids",Mr Bean Live Action (1080p)
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
